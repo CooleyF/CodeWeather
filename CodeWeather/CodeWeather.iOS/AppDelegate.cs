@@ -4,6 +4,9 @@ using System.Linq;
 
 using Foundation;
 using UIKit;
+using Microsoft.AppCenter;
+using Microsoft.AppCenter.Analytics;
+using Microsoft.AppCenter.Crashes;
 
 namespace CodeWeather.iOS
 {
@@ -22,6 +25,9 @@ namespace CodeWeather.iOS
         //
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
+            AppCenter.Start("f94099a7-9c37-432b-8cd3-cf5534ad9a1a",
+                   typeof(Analytics), typeof(Crashes));
+
             global::Xamarin.Forms.Forms.Init();
             LoadApplication(new App());
 

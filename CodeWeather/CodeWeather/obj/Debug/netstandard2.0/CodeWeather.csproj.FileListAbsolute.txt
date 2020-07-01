@@ -6,3 +6,10 @@ C:\Users\v-cjames\Documents\GitHub\CodeWeather\CodeWeather\CodeWeather\obj\Debug
 C:\Users\v-cjames\Documents\GitHub\CodeWeather\CodeWeather\CodeWeather\obj\Debug\netstandard2.0\WeatherPage.xaml.g.cs
 C:\Users\v-cjames\Documents\GitHub\CodeWeather\CodeWeather\CodeWeather\obj\Debug\netstandard2.0\CodeWeather.AssemblyInfoInputs.cache
 C:\Users\v-cjames\Documents\GitHub\CodeWeather\CodeWeather\CodeWeather\obj\Debug\netstandard2.0\CodeWeather.AssemblyInfo.cs
+C:\Users\v-cjames\Documents\GitHub\CodeWeather\CodeWeather\CodeWeather\bin\Debug\netstandard2.0\ref\CodeWeather.dll
+C:\Users\v-cjames\Documents\GitHub\CodeWeather\CodeWeather\CodeWeather\bin\Debug\netstandard2.0\CodeWeather.pdb
+C:\Users\v-cjames\Documents\GitHub\CodeWeather\CodeWeather\CodeWeather\obj\Debug\netstandard2.0\CodeWeather.csproj.CoreCompileInputs.cache
+C:\Users\v-cjames\Documents\GitHub\CodeWeather\CodeWeather\CodeWeather\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\v-cjames\Documents\GitHub\CodeWeather\CodeWeather\CodeWeather\obj\Debug\netstandard2.0\CodeWeather.dll
+C:\Users\v-cjames\Documents\GitHub\CodeWeather\CodeWeather\CodeWeather\obj\Debug\netstandard2.0\ref\CodeWeather.dll
+C:\Users\v-cjames\Documents\GitHub\CodeWeather\CodeWeather\CodeWeather\obj\Debug\netstandard2.0\CodeWeather.pdb

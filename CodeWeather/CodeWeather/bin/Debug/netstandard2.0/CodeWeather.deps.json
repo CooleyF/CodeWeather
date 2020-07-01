@@ -11,6 +11,7 @@
         "dependencies": {
           "Microsoft.AppCenter": "3.2.2",
           "Microsoft.AppCenter.Analytics": "3.2.2",
+          "Microsoft.AppCenter.Crashes": "3.2.2",
           "Microsoft.CSharp": "4.7.0",
           "Microsoft.Net.Http": "2.2.29",
           "NETStandard.Library": "2.0.3",
@@ -37,6 +38,17 @@
         },
         "runtime": {
           "lib/netstandard1.0/Microsoft.AppCenter.Analytics.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "3.2.2.0"
+          }
+        }
+      },
+      "Microsoft.AppCenter.Crashes/3.2.2": {
+        "dependencies": {
+          "Microsoft.AppCenter": "3.2.2"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Microsoft.AppCenter.Crashes.dll": {
             "assemblyVersion": "0.0.0.0",
             "fileVersion": "3.2.2.0"
           }
@@ -178,6 +190,13 @@
       "sha512": "sha512-+HMUgzHkD9TdWc5gChc5lj7gFluTbzGQn5mwdsWSMS4AXi3HK4Axj9HSYt1M9jFW/dK/PKxY9ysCDOk4AnxMLA==",
       "path": "microsoft.appcenter.analytics/3.2.2",
       "hashPath": "microsoft.appcenter.analytics.3.2.2.nupkg.sha512"
+    },
+    "Microsoft.AppCenter.Crashes/3.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OcRqm6vzuV0rUj9xE6qa/jHFJn0qin26o9R+11hDl7Lh/IQxzm5ReNVRNkOTK3W8Y6bdiDXDwBHfdFQlvbserg==",
+      "path": "microsoft.appcenter.crashes/3.2.2",
+      "hashPath": "microsoft.appcenter.crashes.3.2.2.nupkg.sha512"
     },
     "Microsoft.Bcl/1.1.10": {
       "type": "package",
