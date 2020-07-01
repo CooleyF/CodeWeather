@@ -1,0 +1,8 @@
+C:\Users\v-cjames\Documents\GitHub\CodeWeather\CodeWeather\CodeWeather\bin\Debug\netstandard2.0\CodeWeather.deps.json
+C:\Users\v-cjames\Documents\GitHub\CodeWeather\CodeWeather\CodeWeather\bin\Debug\netstandard2.0\CodeWeather.dll
+C:\Users\v-cjames\Documents\GitHub\CodeWeather\CodeWeather\CodeWeather\obj\Debug\netstandard2.0\CodeWeather.csprojAssemblyReference.cache
+C:\Users\v-cjames\Documents\GitHub\CodeWeather\CodeWeather\CodeWeather\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\v-cjames\Documents\GitHub\CodeWeather\CodeWeather\CodeWeather\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\v-cjames\Documents\GitHub\CodeWeather\CodeWeather\CodeWeather\obj\Debug\netstandard2.0\WeatherPage.xaml.g.cs
+C:\Users\v-cjames\Documents\GitHub\CodeWeather\CodeWeather\CodeWeather\obj\Debug\netstandard2.0\CodeWeather.AssemblyInfoInputs.cache
+C:\Users\v-cjames\Documents\GitHub\CodeWeather\CodeWeather\CodeWeather\obj\Debug\netstandard2.0\CodeWeather.AssemblyInfo.cs
